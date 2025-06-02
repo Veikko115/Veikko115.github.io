@@ -1,2 +1,2 @@
-# veikkoteppola.github.io
+# veikkoteppola
 Portfolio
